@@ -1,17 +1,18 @@
-<h1 align="center"> API nodejs </h1>
+<h1> API nodejs </h1>
 
-<div class="contet">
+<div>
 <h4>Welcome to my first REST API !!</h4>
-<span id="contetbody">
+<span>
 Here you will find a simple CRUD for lending books to people. 
 This project is a REST API using nodeJS and mongoDB. 
 </span>
 
 <h3>Required:</h3>
-<li>NodeJs</li>
-<li>Express</li>
-<li>MongoDB</li>
-
+<p>
+[NodeJs] 
+- [Express] 
+- [MongoDB] 
+</p>
 </div>
 
 <div> 
